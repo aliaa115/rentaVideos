@@ -13,10 +13,10 @@ C:\Users\HP\source\repos\FormularioRentaVideos\obj\Debug\FormularioRentaVideos.R
 \\Mac\Home\Documents\Universidad\8vo semestre\037 Analisis de Sistemas II\renta de peliculas\GitRenta\rentaVideos\Desarrollo\FormularioRentaVideos\bin\Debug\FormularioRentaVideos.exe
 \\Mac\Home\Documents\Universidad\8vo semestre\037 Analisis de Sistemas II\renta de peliculas\GitRenta\rentaVideos\Desarrollo\FormularioRentaVideos\bin\Debug\FormularioRentaVideos.pdb
 \\Mac\Home\Documents\Universidad\8vo semestre\037 Analisis de Sistemas II\renta de peliculas\GitRenta\rentaVideos\Desarrollo\FormularioRentaVideos\obj\Debug\PrototipoRentaVideos.csprojAssemblyReference.cache
-\\Mac\Home\Documents\Universidad\8vo semestre\037 Analisis de Sistemas II\renta de peliculas\GitRenta\rentaVideos\Desarrollo\FormularioRentaVideos\obj\Debug\FormularioRentaVideos.Reportes.resources
 \\Mac\Home\Documents\Universidad\8vo semestre\037 Analisis de Sistemas II\renta de peliculas\GitRenta\rentaVideos\Desarrollo\FormularioRentaVideos\obj\Debug\FormularioRentaVideos.Usuario.resources
 \\Mac\Home\Documents\Universidad\8vo semestre\037 Analisis de Sistemas II\renta de peliculas\GitRenta\rentaVideos\Desarrollo\FormularioRentaVideos\obj\Debug\FormularioRentaVideos.Properties.Resources.resources
 \\Mac\Home\Documents\Universidad\8vo semestre\037 Analisis de Sistemas II\renta de peliculas\GitRenta\rentaVideos\Desarrollo\FormularioRentaVideos\obj\Debug\PrototipoRentaVideos.csproj.GenerateResource.cache
 \\Mac\Home\Documents\Universidad\8vo semestre\037 Analisis de Sistemas II\renta de peliculas\GitRenta\rentaVideos\Desarrollo\FormularioRentaVideos\obj\Debug\PrototipoRentaVideos.csproj.CoreCompileInputs.cache
 \\Mac\Home\Documents\Universidad\8vo semestre\037 Analisis de Sistemas II\renta de peliculas\GitRenta\rentaVideos\Desarrollo\FormularioRentaVideos\obj\Debug\FormularioRentaVideos.exe
 \\Mac\Home\Documents\Universidad\8vo semestre\037 Analisis de Sistemas II\renta de peliculas\GitRenta\rentaVideos\Desarrollo\FormularioRentaVideos\obj\Debug\FormularioRentaVideos.pdb
+\\Mac\Home\Documents\Universidad\8vo semestre\037 Analisis de Sistemas II\renta de peliculas\GitRenta\rentaVideos\Desarrollo\FormularioRentaVideos\obj\Debug\FormularioRentaVideos.Devoluciones.resources
