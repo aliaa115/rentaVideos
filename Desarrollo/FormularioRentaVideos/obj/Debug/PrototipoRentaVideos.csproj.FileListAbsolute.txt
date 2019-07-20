@@ -1,0 +1,11 @@
+C:\Users\HP\source\repos\FormularioRentaVideos\bin\Debug\FormularioRentaVideos.exe.config
+C:\Users\HP\source\repos\FormularioRentaVideos\bin\Debug\FormularioRentaVideos.exe
+C:\Users\HP\source\repos\FormularioRentaVideos\bin\Debug\FormularioRentaVideos.pdb
+C:\Users\HP\source\repos\FormularioRentaVideos\obj\Debug\PrototipoRentaVideos.csprojAssemblyReference.cache
+C:\Users\HP\source\repos\FormularioRentaVideos\obj\Debug\FormularioRentaVideos.Usuario.resources
+C:\Users\HP\source\repos\FormularioRentaVideos\obj\Debug\FormularioRentaVideos.Properties.Resources.resources
+C:\Users\HP\source\repos\FormularioRentaVideos\obj\Debug\PrototipoRentaVideos.csproj.GenerateResource.cache
+C:\Users\HP\source\repos\FormularioRentaVideos\obj\Debug\PrototipoRentaVideos.csproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\FormularioRentaVideos\obj\Debug\FormularioRentaVideos.exe
+C:\Users\HP\source\repos\FormularioRentaVideos\obj\Debug\FormularioRentaVideos.pdb
+C:\Users\HP\source\repos\FormularioRentaVideos\obj\Debug\FormularioRentaVideos.Reportes.resources
