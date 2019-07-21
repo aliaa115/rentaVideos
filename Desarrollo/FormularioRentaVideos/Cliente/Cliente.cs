@@ -10,6 +10,7 @@ using System.Windows.Forms;
 
 namespace FormularioRentaVideos.Cliente
 {
+    //Conny Barrios 0901 15 4555
     public partial class Cliente : Form
     {
         public Cliente()
