@@ -17,5 +17,9 @@ namespace FormularioRentaVideos
             InitializeComponent();
         }
 
+        private void Button2_Click(object sender, EventArgs e)
+        {
+
+        }
     }
 }

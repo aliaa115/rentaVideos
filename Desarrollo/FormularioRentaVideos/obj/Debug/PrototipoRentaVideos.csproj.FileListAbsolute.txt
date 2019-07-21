@@ -9,3 +9,21 @@ C:\Users\HP\source\repos\FormularioRentaVideos\obj\Debug\PrototipoRentaVideos.cs
 C:\Users\HP\source\repos\FormularioRentaVideos\obj\Debug\FormularioRentaVideos.exe
 C:\Users\HP\source\repos\FormularioRentaVideos\obj\Debug\FormularioRentaVideos.pdb
 C:\Users\HP\source\repos\FormularioRentaVideos\obj\Debug\FormularioRentaVideos.Reportes.resources
+C:\Users\Conny\Documents\Carrera U\Ingenieria\8. Octavo Semestre\Analisis de Sistemas II\rentaVideos\Desarrollo\FormularioRentaVideos\bin\Debug\FormularioRentaVideos.exe.config
+C:\Users\Conny\Documents\Carrera U\Ingenieria\8. Octavo Semestre\Analisis de Sistemas II\rentaVideos\Desarrollo\FormularioRentaVideos\bin\Debug\FormularioRentaVideos.exe
+C:\Users\Conny\Documents\Carrera U\Ingenieria\8. Octavo Semestre\Analisis de Sistemas II\rentaVideos\Desarrollo\FormularioRentaVideos\bin\Debug\FormularioRentaVideos.pdb
+C:\Users\Conny\Documents\Carrera U\Ingenieria\8. Octavo Semestre\Analisis de Sistemas II\rentaVideos\Desarrollo\FormularioRentaVideos\bin\Debug\EntityFramework.dll
+C:\Users\Conny\Documents\Carrera U\Ingenieria\8. Octavo Semestre\Analisis de Sistemas II\rentaVideos\Desarrollo\FormularioRentaVideos\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Conny\Documents\Carrera U\Ingenieria\8. Octavo Semestre\Analisis de Sistemas II\rentaVideos\Desarrollo\FormularioRentaVideos\bin\Debug\EntityFramework.xml
+C:\Users\Conny\Documents\Carrera U\Ingenieria\8. Octavo Semestre\Analisis de Sistemas II\rentaVideos\Desarrollo\FormularioRentaVideos\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Conny\Documents\Carrera U\Ingenieria\8. Octavo Semestre\Analisis de Sistemas II\rentaVideos\Desarrollo\FormularioRentaVideos\obj\Debug\PrototipoRentaVideos.csprojAssemblyReference.cache
+C:\Users\Conny\Documents\Carrera U\Ingenieria\8. Octavo Semestre\Analisis de Sistemas II\rentaVideos\Desarrollo\FormularioRentaVideos\obj\Debug\FormularioRentaVideos.Cliente.Cliente.resources
+C:\Users\Conny\Documents\Carrera U\Ingenieria\8. Octavo Semestre\Analisis de Sistemas II\rentaVideos\Desarrollo\FormularioRentaVideos\obj\Debug\FormularioRentaVideos.Reportes.resources
+C:\Users\Conny\Documents\Carrera U\Ingenieria\8. Octavo Semestre\Analisis de Sistemas II\rentaVideos\Desarrollo\FormularioRentaVideos\obj\Debug\FormularioRentaVideos.Usuario.resources
+C:\Users\Conny\Documents\Carrera U\Ingenieria\8. Octavo Semestre\Analisis de Sistemas II\rentaVideos\Desarrollo\FormularioRentaVideos\obj\Debug\FormularioRentaVideos.Properties.Resources.resources
+C:\Users\Conny\Documents\Carrera U\Ingenieria\8. Octavo Semestre\Analisis de Sistemas II\rentaVideos\Desarrollo\FormularioRentaVideos\obj\Debug\PrototipoRentaVideos.csproj.GenerateResource.cache
+C:\Users\Conny\Documents\Carrera U\Ingenieria\8. Octavo Semestre\Analisis de Sistemas II\rentaVideos\Desarrollo\FormularioRentaVideos\obj\Debug\PrototipoRentaVideos.csproj.CoreCompileInputs.cache
+C:\Users\Conny\Documents\Carrera U\Ingenieria\8. Octavo Semestre\Analisis de Sistemas II\rentaVideos\Desarrollo\FormularioRentaVideos\obj\Debug\PrototipoRentaVideos.csproj.CopyComplete
+C:\Users\Conny\Documents\Carrera U\Ingenieria\8. Octavo Semestre\Analisis de Sistemas II\rentaVideos\Desarrollo\FormularioRentaVideos\obj\Debug\FormularioRentaVideos.exe
+C:\Users\Conny\Documents\Carrera U\Ingenieria\8. Octavo Semestre\Analisis de Sistemas II\rentaVideos\Desarrollo\FormularioRentaVideos\obj\Debug\FormularioRentaVideos.pdb
+C:\Users\Conny\Documents\Carrera U\Ingenieria\8. Octavo Semestre\Analisis de Sistemas II\rentaVideos\Desarrollo\FormularioRentaVideos\obj\Debug\FormularioRentaVideos.Cliente.resources
