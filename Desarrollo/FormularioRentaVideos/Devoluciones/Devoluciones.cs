@@ -14,26 +14,34 @@ namespace FormularioRentaVideos
             Pnl_Reporte.Visible = false;
 
             for(int i = 0; i < 4; i++){
-                this.Dgv_PeliculasCliente.Rows.Add();
-                Dgv_PeliculasCliente.Rows[i].Cells[0].Value = i+1;
-                Dgv_PeliculasCliente.Rows[i].Cells[1].Value = false;
-                Dgv_PeliculasCliente.Rows[i].Cells[2].Value = "Pitufos";
-                Dgv_PeliculasCliente.Rows[i].Cells[3].Value = "12-02-2019";
-                Dgv_PeliculasCliente.Rows[i].Cells[4].Value = "20-02-2019";
-                Dgv_PeliculasCliente.Rows[i].Cells[5].Value = "0";
+                this.Dgv_ListaClienteNuevo.Rows.Add();
+                Dgv_ListaClienteNuevo.Rows[i].Cells[0].Value = i + 1;
+                Dgv_ListaClienteNuevo.Rows[i].Cells[1].Value = false;
+                Dgv_ListaClienteNuevo.Rows[i].Cells[2].Value = "Pitufos";
+                Dgv_ListaClienteNuevo.Rows[i].Cells[3].Value = "12-02-2019";
+                Dgv_ListaClienteNuevo.Rows[i].Cells[4].Value = "20-02-2019";
+                Dgv_ListaClienteNuevo.Rows[i].Cells[5].Value = "0";
 
-                this.Dgv_ListaPeliculasCliente.Rows.Add();
-                Dgv_ListaPeliculasCliente.Rows[i].Cells[0].Value = i+1;
-                Dgv_ListaPeliculasCliente.Rows[i].Cells[1].Value = false;
-                Dgv_ListaPeliculasCliente.Rows[i].Cells[2].Value = "Pitufos";
-                Dgv_ListaPeliculasCliente.Rows[i].Cells[3].Value = "12-02-2019";
-                Dgv_ListaPeliculasCliente.Rows[i].Cells[4].Value = "20-02-2019";
-                Dgv_ListaPeliculasCliente.Rows[i].Cells[5].Value = "0";
+                this.Dgv_ListaClienteRemover.Rows.Add();
+                Dgv_ListaClienteRemover.Rows[i].Cells[0].Value = i + 1;
+                Dgv_ListaClienteRemover.Rows[i].Cells[1].Value = false;
+                Dgv_ListaClienteRemover.Rows[i].Cells[2].Value = "Pitufos";
+                Dgv_ListaClienteRemover.Rows[i].Cells[3].Value = "12-02-2019";
+                Dgv_ListaClienteRemover.Rows[i].Cells[4].Value = "20-02-2019";
+                Dgv_ListaClienteRemover.Rows[i].Cells[5].Value = "0";
+
+                this.Dgv_ListaClienteModificar.Rows.Add();
+                Dgv_ListaClienteModificar.Rows[i].Cells[0].Value = i + 1;
+                Dgv_ListaClienteModificar.Rows[i].Cells[1].Value = false;
+                Dgv_ListaClienteModificar.Rows[i].Cells[2].Value = "Pitufos";
+                Dgv_ListaClienteModificar.Rows[i].Cells[3].Value = "12-02-2019";
+                Dgv_ListaClienteModificar.Rows[i].Cells[4].Value = "20-02-2019";
+                Dgv_ListaClienteModificar.Rows[i].Cells[5].Value = "0";
             }
 
-            this.Dgv_PeliculasCliente.SelectionMode =
+            this.Dgv_ListaClienteNuevo.SelectionMode =
                 DataGridViewSelectionMode.FullRowSelect;
-            this.Dgv_PeliculasCliente.MultiSelect = false;
+            this.Dgv_ListaClienteNuevo.MultiSelect = false;
         }
 
         private void Btn_Remover_Click(object sender, EventArgs e)
