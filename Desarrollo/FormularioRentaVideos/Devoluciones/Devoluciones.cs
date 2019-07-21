@@ -37,6 +37,14 @@ namespace FormularioRentaVideos
                 Dgv_ListaClienteModificar.Rows[i].Cells[3].Value = "12-02-2019";
                 Dgv_ListaClienteModificar.Rows[i].Cells[4].Value = "20-02-2019";
                 Dgv_ListaClienteModificar.Rows[i].Cells[5].Value = "0";
+
+                this.Dgv_ListaPeliculasReporte.Rows.Add();
+                Dgv_ListaPeliculasReporte.Rows[i].Cells[0].Value = i + 1;
+                Dgv_ListaPeliculasReporte.Rows[i].Cells[1].Value = false;
+                Dgv_ListaPeliculasReporte.Rows[i].Cells[2].Value = "Pitufos";
+                Dgv_ListaPeliculasReporte.Rows[i].Cells[3].Value = "12-02-2019";
+                Dgv_ListaPeliculasReporte.Rows[i].Cells[4].Value = "20-02-2019";
+                Dgv_ListaPeliculasReporte.Rows[i].Cells[5].Value = "0";
             }
 
             this.Dgv_ListaClienteNuevo.SelectionMode =
