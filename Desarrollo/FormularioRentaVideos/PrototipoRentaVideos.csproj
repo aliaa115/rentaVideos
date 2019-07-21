@@ -52,19 +52,25 @@
     <Compile Include="Devoluciones\Devoluciones.Designer.cs">
       <DependentUpon>Devoluciones.cs</DependentUpon>
     </Compile>
-    <Compile Include="Usuario.cs">
+    <Compile Include="Reportes.cs">
       <SubType>Form</SubType>
     </Compile>
-    <Compile Include="Usuario.Designer.cs">
-      <DependentUpon>Usuario.cs</DependentUpon>
+    <Compile Include="Reportes.designer.cs">
+      <DependentUpon>Reportes.cs</DependentUpon>
     </Compile>
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Usuario.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Usuario.designer.cs">
+      <DependentUpon>Usuario.cs</DependentUpon>
+    </Compile>
     <EmbeddedResource Include="Devoluciones\Devoluciones.resx">
       <DependentUpon>Devoluciones.cs</DependentUpon>
     </EmbeddedResource>
-    <EmbeddedResource Include="Usuario.resx">
-      <DependentUpon>Usuario.cs</DependentUpon>
+    <EmbeddedResource Include="Reportes.resx">
+      <DependentUpon>Reportes.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="Properties\Resources.resx">
       <Generator>ResXFileCodeGenerator</Generator>
@@ -76,6 +82,9 @@
       <DependentUpon>Resources.resx</DependentUpon>
       <DesignTime>True</DesignTime>
     </Compile>
+    <EmbeddedResource Include="Usuario.resx">
+      <DependentUpon>Usuario.cs</DependentUpon>
+    </EmbeddedResource>
     <None Include="Properties\Settings.settings">
       <Generator>SettingsSingleFileGenerator</Generator>
       <LastGenOutput>Settings.Designer.cs</LastGenOutput>
