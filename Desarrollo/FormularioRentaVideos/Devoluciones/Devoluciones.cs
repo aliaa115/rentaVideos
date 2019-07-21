@@ -13,34 +13,23 @@ namespace FormularioRentaVideos
             Pnl_Remover.Visible = false;
             Pnl_Reporte.Visible = false;
 
-            this.Dgv_PeliculasCliente.Rows.Add();
-            Dgv_PeliculasCliente.Rows[0].Cells[0].Value = 1;
-            Dgv_PeliculasCliente.Rows[0].Cells[1].Value = false;
-            Dgv_PeliculasCliente.Rows[0].Cells[2].Value = "Pitufos";
-            Dgv_PeliculasCliente.Rows[0].Cells[3].Value = "12-02-2019";
-            Dgv_PeliculasCliente.Rows[0].Cells[4].Value = "20-02-2019";
-            Dgv_PeliculasCliente.Rows[0].Cells[5].Value = "0";
-            this.Dgv_PeliculasCliente.Rows.Add();
-            Dgv_PeliculasCliente.Rows[1].Cells[0].Value = 1;
-            Dgv_PeliculasCliente.Rows[1].Cells[1].Value = false;
-            Dgv_PeliculasCliente.Rows[1].Cells[2].Value = "Pitufos";
-            Dgv_PeliculasCliente.Rows[1].Cells[3].Value = "12-02-2019";
-            Dgv_PeliculasCliente.Rows[1].Cells[4].Value = "20-02-2019";
-            Dgv_PeliculasCliente.Rows[1].Cells[5].Value = "0";
-            this.Dgv_PeliculasCliente.Rows.Add();
-            Dgv_PeliculasCliente.Rows[2].Cells[0].Value = 1;
-            Dgv_PeliculasCliente.Rows[2].Cells[1].Value = false;
-            Dgv_PeliculasCliente.Rows[2].Cells[2].Value = "Pitufos";
-            Dgv_PeliculasCliente.Rows[2].Cells[3].Value = "12-02-2019";
-            Dgv_PeliculasCliente.Rows[2].Cells[4].Value = "20-02-2019";
-            Dgv_PeliculasCliente.Rows[2].Cells[5].Value = "0";
-            this.Dgv_PeliculasCliente.Rows.Add();
-            Dgv_PeliculasCliente.Rows[3].Cells[0].Value = 1;
-            Dgv_PeliculasCliente.Rows[3].Cells[1].Value = false;
-            Dgv_PeliculasCliente.Rows[3].Cells[2].Value = "Pitufos";
-            Dgv_PeliculasCliente.Rows[3].Cells[3].Value = "12-02-2019";
-            Dgv_PeliculasCliente.Rows[3].Cells[4].Value = "20-02-2019";
-            Dgv_PeliculasCliente.Rows[3].Cells[5].Value = "0";
+            for(int i = 0; i < 4; i++){
+                this.Dgv_PeliculasCliente.Rows.Add();
+                Dgv_PeliculasCliente.Rows[i].Cells[0].Value = i+1;
+                Dgv_PeliculasCliente.Rows[i].Cells[1].Value = false;
+                Dgv_PeliculasCliente.Rows[i].Cells[2].Value = "Pitufos";
+                Dgv_PeliculasCliente.Rows[i].Cells[3].Value = "12-02-2019";
+                Dgv_PeliculasCliente.Rows[i].Cells[4].Value = "20-02-2019";
+                Dgv_PeliculasCliente.Rows[i].Cells[5].Value = "0";
+
+                this.Dgv_ListaPeliculasCliente.Rows.Add();
+                Dgv_ListaPeliculasCliente.Rows[i].Cells[0].Value = i+1;
+                Dgv_ListaPeliculasCliente.Rows[i].Cells[1].Value = false;
+                Dgv_ListaPeliculasCliente.Rows[i].Cells[2].Value = "Pitufos";
+                Dgv_ListaPeliculasCliente.Rows[i].Cells[3].Value = "12-02-2019";
+                Dgv_ListaPeliculasCliente.Rows[i].Cells[4].Value = "20-02-2019";
+                Dgv_ListaPeliculasCliente.Rows[i].Cells[5].Value = "0";
+            }
 
             this.Dgv_PeliculasCliente.SelectionMode =
                 DataGridViewSelectionMode.FullRowSelect;
@@ -53,6 +42,8 @@ namespace FormularioRentaVideos
             Pnl_Modificar.Visible = false;
             Pnl_Remover.Visible = true;
             Pnl_Reporte.Visible = false;
+
+            Label_Devoluciones.Text = "DEVOLUCIONES [Remover]";
         }
 
         private void Btn_Modificar_Click(object sender, EventArgs e)
@@ -61,6 +52,8 @@ namespace FormularioRentaVideos
             Pnl_Modificar.Visible = true;
             Pnl_Remover.Visible = false;
             Pnl_Reporte.Visible = false;
+
+            Label_Devoluciones.Text = "DEVOLUCIONES [Modificar]";
         }
 
         private void Btn_Reporte_Click(object sender, EventArgs e)
@@ -69,6 +62,8 @@ namespace FormularioRentaVideos
             Pnl_Modificar.Visible = false;
             Pnl_Remover.Visible = false;
             Pnl_Reporte.Visible = true;
+
+            Label_Devoluciones.Text = "DEVOLUCIONES [Reporte]";
         }
 
         private void Btn_Cerrar_Click(object sender, EventArgs e)
@@ -87,6 +82,8 @@ namespace FormularioRentaVideos
             Pnl_Modificar.Visible = false;
             Pnl_Remover.Visible = false;
             Pnl_Reporte.Visible = false;
+
+            Label_Devoluciones.Text = "DEVOLUCIONES [Nuevo]";
         }
 
         private void Dgv_PeliculasCliente_CellContentClick(object sender, DataGridViewCellEventArgs e)
