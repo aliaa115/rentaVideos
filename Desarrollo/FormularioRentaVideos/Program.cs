@@ -16,7 +16,7 @@ namespace FormularioRentaVideos
         {
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
-            Application.Run(new Reportes());
+            Application.Run(new Nuevo_Producto());
         }
     }
 }

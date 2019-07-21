@@ -17,5 +17,14 @@ namespace FormularioRentaVideos
             InitializeComponent();
         }
 
+        private void Panel_pel_Paint(object sender, PaintEventArgs e)
+        {
+
+        }
+
+        private void Reportes_Load(object sender, EventArgs e)
+        {
+
+        }
     }
 }

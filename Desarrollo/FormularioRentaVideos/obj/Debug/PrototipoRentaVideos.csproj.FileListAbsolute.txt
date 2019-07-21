@@ -9,3 +9,4 @@ C:\Users\HP\source\repos\FormularioRentaVideos\obj\Debug\PrototipoRentaVideos.cs
 C:\Users\HP\source\repos\FormularioRentaVideos\obj\Debug\FormularioRentaVideos.exe
 C:\Users\HP\source\repos\FormularioRentaVideos\obj\Debug\FormularioRentaVideos.pdb
 C:\Users\HP\source\repos\FormularioRentaVideos\obj\Debug\FormularioRentaVideos.Reportes.resources
+C:\Users\HP\source\repos\FormularioRentaVideos\obj\Debug\FormularioRentaVideos.Nuevo_Producto.resources
