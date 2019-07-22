@@ -16,5 +16,16 @@ namespace FormularioRentaVideos.Login
         {
             InitializeComponent();
         }
+
+        private void Btn_Ingresar_Click(object sender, EventArgs e)
+        {
+            Menu frm_menu = new Menu();
+            frm_menu.ShowDialog();
+        }
+
+        private void PictureBox2_Click(object sender, EventArgs e)
+        {
+            this.Close();
+        }
     }
 }
