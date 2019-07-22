@@ -53,7 +53,6 @@
             // 
             // pictureBox2
             // 
-            this.pictureBox2.Image = global::FormularioRentaVideos.Properties.Resources.cerrar;
             this.pictureBox2.Location = new System.Drawing.Point(351, 0);
             this.pictureBox2.Name = "pictureBox2";
             this.pictureBox2.Size = new System.Drawing.Size(30, 30);

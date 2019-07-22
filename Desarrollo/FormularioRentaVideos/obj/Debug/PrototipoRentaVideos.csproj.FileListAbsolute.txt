@@ -22,3 +22,6 @@ C:\Users\CRISTHIAN\Documents\RepoVentaVideo\rentaVideos\Desarrollo\FormularioRen
 C:\Users\CRISTHIAN\Documents\RepoVentaVideo\rentaVideos\Desarrollo\FormularioRentaVideos\obj\Debug\PrototipoRentaVideos.csproj.CoreCompileInputs.cache
 C:\Users\CRISTHIAN\Documents\RepoVentaVideo\rentaVideos\Desarrollo\FormularioRentaVideos\obj\Debug\FormularioRentaVideos.exe
 C:\Users\CRISTHIAN\Documents\RepoVentaVideo\rentaVideos\Desarrollo\FormularioRentaVideos\obj\Debug\FormularioRentaVideos.pdb
+C:\Users\CRISTHIAN\RiderProjects\rentaVideos\Desarrollo\FormularioRentaVideos\obj\Debug\PrototipoRentaVideos.csprojAssemblyReference.cache
+C:\Users\CRISTHIAN\RiderProjects\rentaVideos\Desarrollo\FormularioRentaVideos\obj\Debug\FormularioRentaVideos.exe
+C:\Users\CRISTHIAN\RiderProjects\rentaVideos\Desarrollo\FormularioRentaVideos\obj\Debug\FormularioRentaVideos.pdb
