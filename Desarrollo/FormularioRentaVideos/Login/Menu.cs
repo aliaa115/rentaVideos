@@ -21,5 +21,10 @@ namespace FormularioRentaVideos.Login
         {
 
         }
+
+        private void PictureBox1_Click(object sender, EventArgs e)
+        {
+            this.Close();
+        }
     }
 }
