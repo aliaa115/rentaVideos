@@ -4,7 +4,7 @@
 
 <Workspace>
 	<Local Expanded="Yes">
-		<Model Expanded="Yes" ID="{B0C5AF62-AC58-4E58-A80C-FF4A74801CF5}" Name="Data Flow Diagram_1" Selected="Yes" Type="{3D3C409C-B60D-430E-A1C4-B880653AC634}" URL="DFD_RentaVideos.bpm"/>
+		<Model Expanded="Yes" ID="{B0C5AF62-AC58-4E58-A80C-FF4A74801CF5}" Name="Data Flow Diagram_1" Type="{3D3C409C-B60D-430E-A1C4-B880653AC634}" URL="DFD_RentaVideos.bpm"/>
 	</Local>
 	<BrowserModule Name="Repository"/>
 </Workspace>
