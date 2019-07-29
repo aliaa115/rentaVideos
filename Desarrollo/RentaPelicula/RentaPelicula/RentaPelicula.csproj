@@ -1,0 +1,142 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{B78A6C10-C0F2-425C-9955-505C327C49F2}</ProjectGuid>
+    <OutputType>Library</OutputType>
+    <RootNamespace>RentaPelicula</RootNamespace>
+    <AssemblyName>RentaPelicula</AssemblyName>
+    <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+    <Deterministic>true</Deterministic>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup>
+    <StartupObject />
+  </PropertyGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="CRUD ROL\Ayuda.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="CRUD ROL\Ayuda.Designer.cs">
+      <DependentUpon>Ayuda.cs</DependentUpon>
+    </Compile>
+    <Compile Include="BaseDeDatos.cs" />
+    <Compile Include="CRUD ROL\CRUD rol.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="CRUD ROL\CRUD rol.Designer.cs">
+      <DependentUpon>CRUD rol.cs</DependentUpon>
+    </Compile>
+    <Compile Include="CRUD SISTEMA\Ayuda.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="CRUD SISTEMA\Ayuda.Designer.cs">
+      <DependentUpon>Ayuda.cs</DependentUpon>
+    </Compile>
+    <Compile Include="CRUD SISTEMA\CRUD sistema.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="CRUD SISTEMA\CRUD sistema.Designer.cs">
+      <DependentUpon>CRUD sistema.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Entity\MenuRol.cs" />
+    <Compile Include="Entity\Rol.cs" />
+    <Compile Include="Entity\Sistema.cs" />
+    <Compile Include="frm_Main.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frm_Main.Designer.cs">
+      <DependentUpon>frm_Main.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frm_P1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frm_P1.Designer.cs">
+      <DependentUpon>frm_P1.cs</DependentUpon>
+    </Compile>
+    <Compile Include="MENU Y ROL\Ayuda.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="MENU Y ROL\Ayuda.Designer.cs">
+      <DependentUpon>Ayuda.cs</DependentUpon>
+    </Compile>
+    <Compile Include="MENU Y ROL\MenuRol.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="MENU Y ROL\MenuRol.Designer.cs">
+      <DependentUpon>MenuRol.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="CRUD ROL\Ayuda.resx">
+      <DependentUpon>Ayuda.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="CRUD ROL\CRUD rol.resx">
+      <DependentUpon>CRUD rol.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="CRUD SISTEMA\Ayuda.resx">
+      <DependentUpon>Ayuda.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="CRUD SISTEMA\CRUD sistema.resx">
+      <DependentUpon>CRUD sistema.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frm_Main.resx">
+      <DependentUpon>frm_Main.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frm_P1.resx">
+      <DependentUpon>frm_P1.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="MENU Y ROL\Ayuda.resx">
+      <DependentUpon>Ayuda.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="MENU Y ROL\MenuRol.resx">
+      <DependentUpon>MenuRol.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+    </EmbeddedResource>
+  </ItemGroup>
+  <ItemGroup>
+    <Reference Include="MySql.Data, Version=6.10.8.0, Culture=neutral, PublicKeyToken=c5687fc88969c44d, processorArchitecture=MSIL" />
+    <Reference Include="System" />
+    <Reference Include="System.Configuration" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup />
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+</Project>

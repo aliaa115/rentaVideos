@@ -1,0 +1,31 @@
+\\Mac\Home\Documents\Universidad\8vo semestre\037 Analisis de Sistemas II\renta de peliculas\NuevoDiseño\RentaPelicula\RentaPelicula\obj\Debug\RentaPelicula.csprojAssemblyReference.cache
+\\Mac\Home\Documents\Universidad\8vo semestre\037 Analisis de Sistemas II\renta de peliculas\NuevoDiseño\RentaPelicula\RentaPelicula\obj\Debug\RentaPelicula.csproj.CoreCompileInputs.cache
+\\Mac\Home\Documents\Universidad\8vo semestre\037 Analisis de Sistemas II\renta de peliculas\NuevoDiseño\RentaPelicula\RentaPelicula\bin\Debug\RentaPelicula.exe.config
+\\Mac\Home\Documents\Universidad\8vo semestre\037 Analisis de Sistemas II\renta de peliculas\NuevoDiseño\RentaPelicula\RentaPelicula\bin\Debug\RentaPelicula.exe
+\\Mac\Home\Documents\Universidad\8vo semestre\037 Analisis de Sistemas II\renta de peliculas\NuevoDiseño\RentaPelicula\RentaPelicula\bin\Debug\RentaPelicula.pdb
+\\Mac\Home\Documents\Universidad\8vo semestre\037 Analisis de Sistemas II\renta de peliculas\NuevoDiseño\RentaPelicula\RentaPelicula\obj\Debug\RentaPelicula.frm_Main.resources
+\\Mac\Home\Documents\Universidad\8vo semestre\037 Analisis de Sistemas II\renta de peliculas\NuevoDiseño\RentaPelicula\RentaPelicula\obj\Debug\RentaPelicula.frm_P1.resources
+\\Mac\Home\Documents\Universidad\8vo semestre\037 Analisis de Sistemas II\renta de peliculas\NuevoDiseño\RentaPelicula\RentaPelicula\obj\Debug\RentaPelicula.Properties.Resources.resources
+\\Mac\Home\Documents\Universidad\8vo semestre\037 Analisis de Sistemas II\renta de peliculas\NuevoDiseño\RentaPelicula\RentaPelicula\obj\Debug\RentaPelicula.csproj.GenerateResource.cache
+\\Mac\Home\Documents\Universidad\8vo semestre\037 Analisis de Sistemas II\renta de peliculas\NuevoDiseño\RentaPelicula\RentaPelicula\obj\Debug\RentaPelicula.exe
+\\Mac\Home\Documents\Universidad\8vo semestre\037 Analisis de Sistemas II\renta de peliculas\NuevoDiseño\RentaPelicula\RentaPelicula\obj\Debug\RentaPelicula.pdb
+C:\Users\HP\Documents\Analisis de sistemas\Analisis 2\RentaPelicula\RentaPelicula\RentaPelicula\obj\Debug\RentaPelicula.csprojAssemblyReference.cache
+C:\Users\HP\Documents\Analisis de sistemas\Analisis 2\RentaPelicula\RentaPelicula\RentaPelicula\obj\Debug\RentaPelicula.pdb
+C:\Users\HP\Documents\Analisis de sistemas\Analisis 2\RentaPelicula\RentaPelicula\RentaPelicula\bin\Debug\RentaPelicula.pdb
+C:\Users\HP\Documents\Analisis de sistemas\Analisis 2\RentaPelicula\RentaPelicula\RentaPelicula\obj\Debug\RentaPelicula.frm_Main.resources
+C:\Users\HP\Documents\Analisis de sistemas\Analisis 2\RentaPelicula\RentaPelicula\RentaPelicula\obj\Debug\RentaPelicula.frm_P1.resources
+C:\Users\HP\Documents\Analisis de sistemas\Analisis 2\RentaPelicula\RentaPelicula\RentaPelicula\obj\Debug\RentaPelicula.Properties.Resources.resources
+C:\Users\HP\Documents\Analisis de sistemas\Analisis 2\RentaPelicula\RentaPelicula\RentaPelicula\obj\Debug\RentaPelicula.csproj.GenerateResource.cache
+C:\Users\HP\Documents\Analisis de sistemas\Analisis 2\RentaPelicula\RentaPelicula\RentaPelicula\obj\Debug\RentaPelicula.csproj.CoreCompileInputs.cache
+C:\Users\HP\Documents\Analisis de sistemas\Analisis 2\RentaPelicula\RentaPelicula\RentaPelicula\obj\Debug\RentaPelicula.CRUD_rol.resources
+C:\Users\HP\Documents\Analisis de sistemas\Analisis 2\RentaPelicula\RentaPelicula\RentaPelicula\obj\Debug\RentaPelicula.CRUD_sistema.resources
+C:\Users\HP\Documents\Analisis de sistemas\Analisis 2\RentaPelicula\RentaPelicula\RentaPelicula\obj\Debug\RentaPelicula.MenuRol.resources
+C:\Users\HP\Documents\Analisis de sistemas\Analisis 2\RentaPelicula\RentaPelicula\RentaPelicula\bin\Debug\MySql.Data.dll
+C:\Users\HP\Documents\Analisis de sistemas\Analisis 2\RentaPelicula\RentaPelicula\RentaPelicula\bin\Debug\MySql.Data.xml
+C:\Users\HP\Documents\Analisis de sistemas\Analisis 2\RentaPelicula\RentaPelicula\RentaPelicula\obj\Debug\RentaPelicula.csproj.CopyComplete
+C:\Users\HP\Documents\Analisis de sistemas\Analisis 2\RentaPelicula\RentaPelicula\RentaPelicula\obj\Debug\RentaPelicula.Ayuda.resources
+C:\Users\HP\Documents\Analisis de sistemas\Analisis 2\RentaPelicula\RentaPelicula\RentaPelicula\obj\Debug\RentaPelicula.CRUD_SISTEMA.Ayuda.resources
+C:\Users\HP\Documents\Analisis de sistemas\Analisis 2\RentaPelicula\RentaPelicula\RentaPelicula\obj\Debug\RentaPelicula.MENU_Y_ROL.Ayuda.resources
+C:\Users\HP\Documents\Analisis de sistemas\Analisis 2\RentaPelicula\RentaPelicula\RentaPelicula\bin\Debug\RentaPelicula.dll.config
+C:\Users\HP\Documents\Analisis de sistemas\Analisis 2\RentaPelicula\RentaPelicula\RentaPelicula\bin\Debug\RentaPelicula.dll
+C:\Users\HP\Documents\Analisis de sistemas\Analisis 2\RentaPelicula\RentaPelicula\RentaPelicula\obj\Debug\RentaPelicula.dll
